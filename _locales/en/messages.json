@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message":"Blocker",
+    "description":"Extension name."
+  },
+  "extShortName": {
+    "message":"Blocker",
+    "description":"Extension name."
+  },
+  "extDescription": {
+    "message":"Testing web request blocking",
+    "description":"Extensions description."
+  }
+}
